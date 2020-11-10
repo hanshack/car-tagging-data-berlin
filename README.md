@@ -12,7 +12,9 @@ The data is subject to change.
 
 Large parts of the city center and the outskirts are complete. Here is a screenshot from the tagging tool taken on the 09.11.2020
 
-![status](status.jpg "")
+<p align="center">
+  <img width="400"src="./status.jpg">
+</p>
 
 ## About the aerial images
 

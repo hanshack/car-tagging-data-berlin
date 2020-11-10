@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42203140258789,
+          52.49549327509636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "large demonstration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.447265624999998,
+          52.5031611404552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "large demonstration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440485000610352,
+          52.51716101425811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396668434143066,
+          52.48916333958237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326748609542847,
+          52.513250117846056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34463357925415,
+          52.48499351127614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393996953964233,
+          52.52132616051177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 6,
+        "description": "market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.459668159484863,
+          52.51086847910391
+        ]
+      }
+    }
+  ]
+}

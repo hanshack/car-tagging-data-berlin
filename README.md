@@ -10,7 +10,7 @@ The data is subject to change.
 
 ## Status
 
-Large parts of the city center and the outskirts are complete. Here is a screenshot from the tagging tool taken on the 09.11.2020
+Large parts of the city center and the outskirts are complete. Here is a screen shot from the tagging tool taken on the 12.12.2020
 
 <p align="center">
   <img width="400"src="./status.jpg">
@@ -40,6 +40,7 @@ Example for a small car in notion:
 	"geometry": { "type": "Polygon", "coordinates": [ [ [ 13.373293088785752, 52.503429881998635 ], [ 13.373209513826753, 52.503429881998635 ], [ 13.373209513778393, 52.503480755240851 ], [ 13.373293088834115, 52.503480755240851 ], [ 13.373293088785752, 52.503429881998635 ] ] ] } 
 }
 ``` 
+You can currently download the data for the district of [Friedrichshain-Kreuzberg](./cars-friedrichshain-kreuzberg.geojson.zip). The folder _raw-data.zip_ contains all the data collected so far but it isn't parsed and merged yet. 
 
 ## Bias
 

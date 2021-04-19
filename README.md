@@ -60,6 +60,8 @@ Even though the data has been double checked, be aware that this data may be bia
 - Analyze informal parking (not on streets and parking lots)
 - Parking violations
 - Parking distribution
+- Parking spaces without cars
+- Parking space compared to living space
 
 ## Some useful resources 
 

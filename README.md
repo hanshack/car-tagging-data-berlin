@@ -70,6 +70,7 @@ Even though the data has been double checked, be aware that this data may be bia
 - Some research into car sizes in Germany: https://www.rnd.de/wirtschaft/datenanalyse-autos-werden-nicht-erst-seit-dem-suv-boom-grosser-6GTM66RRNJEC7EYHR3FQS7Y24Y.html
 - Kraftfahrt-Bundesamt data: https://www.kba.de/DE/Statistik/Produktkatalog/produktkatalog_node.html
 - Straßenbefahrung 2014: https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_StraDa@senstadt&bbox=385391,5816815,385677,5817005
+- Wohnfläche je Einwohner 2019 in m²: https://www.statistik-berlin-brandenburg.de/regionalstatistiken/r-gesamt_neu.asp?Ptyp=410&Sageb=31000&creg=BBB&anzwer=0
 
 ## Contact 
 

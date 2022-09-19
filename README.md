@@ -18,8 +18,7 @@ Large parts of the city center and the outskirts are complete. Here is a screen 
 
 ## About the aerial images
 
-The aerial images were captured on the 1. and 6. of April 2019 on behalf of the city of Berlin. Unfortunately, it is not documented which areas were captured when. A [GeoJSON](./date-indicators.geojson) with clues to the date of recording (for example markets) was therefore added to this repo. Here are some conclusions:
-- The district of Friedrichhain-Kreuzberg was captured on the 6 of April. 
+The aerial images were captured on the 1. and 6. of April 2019 on behalf of the city of Berlin. According to the Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, everything approximately north of Rosenthaler Platz was captured on the 1st of April, whereas everything south of Rosenthaler Platz was captured on the 6th of April. A [GeoJSON](./date-indicators.geojson) with clues to the date of recording (for example markets) has been added to this repo. 
 
 Link to the official dataset: https://fbinter.stadt-berlin.de/fb?loginkey=showMap&mapId=k_luftbild2019_rgb@senstadt
 

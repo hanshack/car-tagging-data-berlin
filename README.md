@@ -28,7 +28,7 @@ Each car has the following properties:
 - size: ```sm | md | lg | xl (sizes do not necessarily represent different vehicle types)```
 - inMotion: ```0|1 (no|yes)``` 
 
-Example for a small car in notion:
+Example for a small car in motion:
 ```
 { 
 	"type": "Feature",
